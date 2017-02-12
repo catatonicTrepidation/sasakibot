@@ -21,8 +21,8 @@ let prefix = "\\";
 
 var sr = {"\\ping":"pangya!", "\\sayhitoyoursister":"Hi, sister! I love you! <3", "\\killchair":"I'll kill you, Chair! <3", "\\<3": "<33", "\\hugsister": "*~Hugs Hottie~* \n I love you, sis! ♥", "\\makelove": "Hnnng, onee samaaa~~"};
 //var ranks = ["rank1","rank2","rank3","rank4","rank5","rank6","rank7","rank8","rank9","rank10"];
-var ranks = {"1":"Shoujo","2":"Bishoujo","3":"Kawaii Shoujo","5":"Neko Shoujo","7":"Mahou Shoujo","10":"Ojou-sama","15":"Loli","21":"Onee-chan"};
-var theranks = ["Shoujo","Bishoujo","Kawaii Shoujo","Neko Shoujo","Mahou Shoujo","Ojou-sama","Loli","Onee-chan"];
+var ranks = {"1":"Shoujo","2":"Bishoujo","3":"Kawaii Shoujo","5":"Neko Shoujo","7":"Mahou Shoujo","10":"Ojou-sama","15":"Kakkoii Joshi","21":"Onee-chan"};
+var theranks = ["Shoujo","Bishoujo","Kawaii Shoujo","Neko Shoujo","Mahou Shoujo","Ojou-sama","Kakkoii Joshi","Onee-chan"];
 
 
 const fs = require("fs");
